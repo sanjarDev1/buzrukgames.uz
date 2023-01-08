@@ -1,0 +1,1 @@
+# buzrukgames.uz
