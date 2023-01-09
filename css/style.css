@@ -276,7 +276,7 @@ ol {
 
 .main-menu {
   float: right;
-  margin-right: 170px;
+  margin-right: 90px;
 }
 
 .main-menu ul {
@@ -1360,6 +1360,12 @@ ol {
     float: none;
     padding-top: 0;
   }
+  .obuna{
+    display: inline-block !important;
+    font-size: 20px !important;
+    margin-left: -50px !important;
+    padding: 13px 26px !important;
+  }
   .main-menu {
     display: none;
     position: absolute;
@@ -1457,6 +1463,13 @@ ol {
     padding-left: 0;
     padding-top: 30px;
   }
+
+  .obuna{
+    display: inline-block !important;
+    font-size: 20px !important;
+    margin-left: -50px !important;
+    padding: 13px 26px !important;
+  }
   .ress{
     font-size: 25px !important;
     margin-bottom: 150px !important;
@@ -1472,6 +1485,12 @@ ol {
   }
   .ress{
     font-size: 20px !important;
+  }
+  .obuna{
+    display: inline-block !important;
+    font-size: 20px !important;
+    margin-left: -50px !important;
+    padding: 13px 26px !important;
   }
   .ln-title {
     display: none;
@@ -1596,4 +1615,8 @@ a {
   transform: scale(1.25) !important;
   font-size: 15px !important;
   transition: 0.5s linear;
+}
+
+.obuna{
+  display: none;
 }
